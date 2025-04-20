@@ -26,7 +26,7 @@
 </head>
 <body>
     <div class="message-box">
-        <h1>Bruh, you gotta watch for the red flags zeros in information!</h1>
+        <h1>Bruh, you gotta watch for the RED FLAGS. Zeros in information!</h1>
         <p>SMH always click'n s**t without verifying!</p>
       <img src="https://c.tenor.com/fBi13QEKZfcAAAAC/tenor.gif" alt="Darth Sidious" />
 </body>
