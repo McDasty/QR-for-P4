@@ -30,14 +30,5 @@
         <p>Always click'n s**t!</p>
       <img src="https://c.tenor.com/fBi13QEKZfcAAAAC/tenor.gif" alt="Darth Sidious" />
     </div>
-<div style="margin-top: 40px;">
-    <iframe width="560" height="315" 
-        src="https://youtube.com/shorts/-K7fCQlUhj0?si=3oE_gAMhPgFs7inCautoplay=1&rel=0&mute=1" 
-        title="Hell Nah"
-        frameborder="8" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-</div>
 </body>
 </html>
